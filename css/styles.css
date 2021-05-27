@@ -553,7 +553,7 @@ a {
 /* Blocks */
 .block {
     --padding-vertical: 5rem;
-    padding: var(--padding-vertical) 2rem;
+    /* padding: var(--padding-vertical) 2rem; */
 }
 .block__header {
     text-align: center;
