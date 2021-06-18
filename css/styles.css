@@ -392,6 +392,7 @@ a {
 }
 .media__title {
     margin-top: 0;
+    /* color: red; */
 }
 .media__body {
     margin: 0 2rem;
